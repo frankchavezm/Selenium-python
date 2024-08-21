@@ -1,1 +1,1 @@
-# Selenium-python
+# Test automation for AI Assistants
